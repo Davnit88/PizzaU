@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271697677409",
+    "project_id": "prueba-416bb",
+    "storage_bucket": "prueba-416bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271697677409:android:8a950e9088634eb20c6e20",
+        "android_client_info": {
+          "package_name": "com.example.pizzau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8CXxrX-cNsOQ0yu417OtfQ7rxeT6iQ_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

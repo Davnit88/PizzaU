@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PizzaU</string>
+    <string name="registration_title">Zona de registro</string>
+    <string name="login_title">Inicio de sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Inicio</string>
+    <string name="register_button">Registro</string>
+    <string name="name_hint">Nombre</string>
+    <string name="register_button_text">Registro</string>
+    <string name="login_button_text">login</string>
+    <string name="consultar_productos">Catalogo</string>
+    <string name="eliminar_productos">Agregar Productos</string>
+    <string name="Name">Nombre</string>
+    <string name="consultarPrice">Precio</string>
+    <string name="Stock">Inventario</string>
+</resources>
